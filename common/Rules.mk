@@ -1,2 +1,2 @@
 PFs := SAMREF.FILE
-SAMREF.FILE: $(d)/SAMREF.PF
+SAMREF.FILE: $(d)/samref.pf
