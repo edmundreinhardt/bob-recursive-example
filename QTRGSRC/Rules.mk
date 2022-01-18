@@ -1,5 +1,0 @@
-TRGs := ORD700A.TRG ORD700D.TRG ORD700U.TRG
-
-ORD700A.TRG: $(d)/ord700a.systrg
-ORD700D.TRG: $(d)/ord700d.systrg
-ORD700U.TRG: $(d)/ord700u.systrg
