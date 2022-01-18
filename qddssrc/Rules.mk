@@ -5,7 +5,7 @@ PRTFs := ORD500O.FILE
 
 ARTICLE.FILE:  $(d)/article-article_file.pf SAMREF.FILE
 ARTICLE1.FILE: $(d)/article1-article_file.lf ARTICLE.FILE
-ARTICLE2.FILE: $(d)/article2.lf article.file
+ARTICLE2.FILE: $(d)/article2.lf ARTICLE.FILE
 ART200D.FILE:  $(d)/art200d-work_with_article.dspf ARTICLE.FILE
 ART301D.FILE:  $(d)/art301d-function_select_an_article.dspf ARTICLE.FILE
  
