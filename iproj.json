@@ -1,11 +1,21 @@
 {
   "version": "0.0.1",
   "description": "SAMPLE PROJECT",
-  "objlib": "&lib1",
-  "curlib": "&lib1",
-  "includePath": ["QPROTOSRC"],
-  "preUsrlibl": ["&lib1"],
+  "includePath": [
+    "QPROTOSRC"
+  ],
   "postUsrlibl": [],
   "setIBMiEnvCmd": [],
-  "repository": "https://github.com/edmundreinhardt/bob-recursive-example"
+  "repository": "git@github.com:sebjulliand/bob-recursive-example.git",
+  "objlib": "&verlibbobby",
+  "buildCommand": "elias compile {branch}",
+  "compileCommand": "elias compile {branch} -f {filename}",
+  "extensions": {
+    "arcad": {
+      "code": "BOBBY",
+      "libraryPrefix": "BBY",
+      "validated": true,
+      "iasp": ""
+    }
+  }
 }

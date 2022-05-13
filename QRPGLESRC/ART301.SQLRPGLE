@@ -7,8 +7,8 @@
      D INFO            DS
      D  LRRN                 378    379B 0
 
-      /copy qprotosrc/article
-      /copy qprotosrc/familly
+      /copy article.rpgleinc
+      /copy familly.rpgleinc
 
      D indds           ds
      D  help                   1      1n
