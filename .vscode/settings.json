@@ -1,0 +1,18 @@
+{
+    "IBM i Developer.projects": [
+        {
+            "project": "payroll-bob",
+            "hostName": "p8adt05.rch.stglabs.ibm.com",
+            "userID": "wdsctest",
+            "buildDirInitialized": true,
+            "buildDir": "/home/WDSCTEST/payroll-bob"
+        },
+        {
+            "project": "bob-recursive-example",
+            "hostName": "10.3.29.100",
+            "userID": "WDSCTEST",
+            "buildDirInitialized": true,
+            "buildDir": "/tmp/bob-recursive-example-k8kmrsjoh7"
+        }
+    ]
+}
