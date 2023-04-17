@@ -1,6 +1,0 @@
-VAT300.MODULE: vat300.rpgle QPROTOSRC/vat.rpgleinc
-
-FVAT.SRVPGM: fvat.bnd VAT300.MODULE
-FVAT.SRVPGM: TEXT = Functions VAT
-
-VATDEF.FILE: vatdef.pf SAMREF.FILE
